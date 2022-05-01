@@ -2,8 +2,9 @@
 
 <h1 align=center> 3D Hanukkah dreidel</h1>
 Quick project done several years ago
+
 ### HTML5
 ### Physics based
-### Available in [Itch.io](https://maxscheler.itch.io/3d-hanukkah-dreidel)
+### Available on [Itch.io](https://maxscheler.itch.io/3d-hanukkah-dreidel)
 
 <p align=center><img src="https://img.itch.zone/aW1nLzI3Nzk2MjMuanBn/315x250%23c/T8U1VH.jpg"/></p>
